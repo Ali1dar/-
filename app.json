@@ -2,6 +2,7 @@
   "expo": {
     "name": "دليل الصياغ",
     "slug": "goldsmith-directory",
+    "owner": "alijdyd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -39,4 +40,3 @@
     }
   }
 }
-
